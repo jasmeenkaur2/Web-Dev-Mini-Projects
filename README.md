@@ -1,2 +1,2 @@
 # Web-Dev-Mini-Projects
-mini projects using HTML and CSS for practice and revision
+mini projects using HTML,CSS and Javascript for practice and revision.

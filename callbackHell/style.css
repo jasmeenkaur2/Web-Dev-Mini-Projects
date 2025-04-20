@@ -1,0 +1,11 @@
+.go {
+    margin: 1rem;
+    background: blue;
+    padding: 5rem;
+    width: 25rem;
+}
+
+
+.circle {
+    border-radius: 50%;
+}

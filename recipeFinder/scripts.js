@@ -4,7 +4,7 @@
 const baseEndpoint = "https://recipes.beginnerjavascript.com/api";
 
 async function fetchRecipe(query) {
-    const response = await fetch(`${baseEndpoint}?q= ${query}`);
+    const response = await fetch(`${baseEndpoint}?q=${query}`);
     const data = await response.json();
     console.log(data);
 }
